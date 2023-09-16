@@ -1,0 +1,15 @@
+.containerArticles{
+  display: flex;
+  flex-direction: row;
+  justify-items: flex-end;
+}
+.articlesMain{
+  display: flex;
+  flex-direction: row;
+}
+
+.header{
+  color: black;
+  position: fixed;
+  border: 3px soli red;
+}

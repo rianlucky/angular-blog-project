@@ -1,5 +1,9 @@
 import { Component } from '@angular/core';
 
+function abrirNot(){
+  console.log("abriu noticia")
+}
+
 @Component({
   selector: 'app-big-card',
   templateUrl: './big-card.component.html',
@@ -8,3 +12,5 @@ import { Component } from '@angular/core';
 export class BigCardComponent {
 
 }
+
+
