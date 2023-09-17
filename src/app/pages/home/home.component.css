@@ -9,7 +9,8 @@
 }
 
 .header{
-  color: black;
-  position: fixed;
-  border: 3px soli red;
+  border: 3px solid red;
+  width: 100%;
+  justify-content: center;
+  position: static;
 }
