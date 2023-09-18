@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
 
 function abrirNot(){
   console.log("abriu noticia")
@@ -10,6 +10,18 @@ function abrirNot(){
   styleUrls: ['./big-card.component.css']
 })
 export class BigCardComponent {
+  @Input()
+  photoCover:string=""
+  @Input()
+  altCover:string=""
+  @Input()
+  cardTitle:string=""
+  @Input()
+  cardDescription:string=""
+  @Input()
+  autorNews:string=""
+  @Input()
+  autorDate:string=""
 
 }
 

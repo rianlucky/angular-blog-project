@@ -5,24 +5,27 @@
 .containerMenuBar{
   display: flex;
   flex-direction: row;
-  margin-bottom: 10px;
-  padding: 10px;
-  padding-left: 41px;
-  padding-bottom: 5px;
+  padding-left: 5%;
   position: fixed;
   align-items: center;
   width: 100%;
+  height: 8%;
+  margin-top: -0.5%;
 }
 
 .sectionsMenu > ul{
   display: flex;
   flex-direction: row;
-  margin-right: 185px;
-  margin-left: 185px;
+  margin-right: 20%;
+  margin-left: 20%;
 }
 
 
 .sectionsMenu > ul >li{
-  margin-right: 20px;
+  margin-right: 20%;
   list-style: none;
+}
+
+.buscar{
+  margin-left: 45%
 }
