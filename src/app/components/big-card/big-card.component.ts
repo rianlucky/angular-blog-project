@@ -22,6 +22,8 @@ export class BigCardComponent {
   autorNews:string=""
   @Input()
   autorDate:string=""
+  @Input()
+  id:string= ''
 
 }
 

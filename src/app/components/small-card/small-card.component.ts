@@ -14,5 +14,7 @@ export class SmallCardComponent {
   cardTitle:string=""
   @Input()
   autorNews:string=""
+  @Input()
+  id:string=''
 
 }

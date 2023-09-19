@@ -1,0 +1,38 @@
+export const dataPage = [
+  {
+    "id":"1",
+    "photo":"https://s2-g1.glbimg.com/JYTuuzRN4oFty4PZIig05XEuWbc=/0x0:1500x1500/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/z/Y/mEiBjuQAOzX5mvqsQULA/clubeesquina1972.jpg",
+    "altImg":"Imagem da capa do album 'Clube da Esquina'",
+    "title":"Clube da Esquina",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pharetra ex mi, ac fringilla est ultrices id. Mauris ultricies dui at lorem interdum vehicula.",
+    "autor":"Milton Nascimento e Lô Borges",
+    "Date":"1971",
+  },
+  {
+    "id":"2",
+    "photo":"https://s2-g1.glbimg.com/jFOW_2dJDU41QROjkYXsfP9qaI4=/0x0:1000x1000/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/S/8/GVtBIkRZOTgHqhMX1JBQ/timmaia1973.jpg",
+    "altImg":"Imagem da capa do Albul Tim Maia 1973",
+    "title":"Tim Maia (1973)",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pharetra ex mi, ac fringilla est ultrices id. Mauris ultricies dui at lorem interdum vehicula.",
+    "autor":"Tim Maia",
+    "Date":"1973",
+  },
+  {
+    "id":"3",
+    "photo":"https://upload.wikimedia.org/wikipedia/pt/7/75/KrigHaBandolo.jpg",
+    "altImg":"Imagem do LP 'Krig-ha, Bandolo!'",
+    "title":"Krig-ha, Bandolo!",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pharetra ex mi, ac fringilla est ultrices id. Mauris ultricies dui at lorem interdum vehicula.",
+    "autor":"Raul Seixas",
+    "Date":"1973",
+  },
+  {
+    "id":"4",
+    "photo":"https://photos.enjoei.com.br/box-lp-vinil-racionais-mcs-nada-como-um-dia-apos-o-outro-dia-lacrado-88137939/800x800/czM6Ly9waG90b3MuZW5qb2VpLmNvbS5ici9wcm9kdWN0cy81MTM2MTk3LzBjNzZlNzY3NWYyN2JjNTEzM2M0MWE4OTJiMmJlNDIyLmpwZw",
+    "altImg":"Nada como um dia após o Outro",
+    "title":"Nada como um dia após o Outro",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pharetra ex mi, ac fringilla est ultrices id. Mauris ultricies dui at lorem interdum vehicula.",
+    "autor":"Racionais MC's",
+    "Date":"2002",
+  },
+]
